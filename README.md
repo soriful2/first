@@ -1,3 +1,6 @@
 # first
 will try in git bash
-this is the first time edit
+hellow world 
+iam changing this using git brash.
+this change is after stage state
+
